@@ -1,6 +1,6 @@
 body {  background-color:#FAD7A0; margin: 0 10%; font-family: 'Rubik'; text-align: center; }
 h1 {text-align: center; font-family: 'Rubik'; font-weight: normal; text -transform: uppercase; margin-top: 30px;}
-h2 { font-size: lem; }
+h2 { font-size: 1em; }
 hr.new1 { border-bottom: 1px solid #5F7FE6}
 footer {text-align:center; padding-top: 1em; }
 footer img { width: 40px; height: 40px; margin-left: .5em; margin-right: .5em; }
@@ -10,4 +10,4 @@ a:link { text-decoration: none; color: #0B9494; }
 a:visited { text-decoration: none; color: #0B9494  ; }
 a:hover, a:focus { text-decoration: none; color: #0B9494  ; background-color: #fff; }
 a:active { text-decoration: none; color: #0B9494  ; background-color: #fff }
-p { font-size: large; font-family: 'Rubik'; }
+p { font-size: large; font-family: 'Rubik'; text-align: center;}
